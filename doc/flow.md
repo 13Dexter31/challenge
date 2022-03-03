@@ -12,10 +12,17 @@
   - Color
     - experiment how important colors are
   - Alignment -> already correct aligned
-  - frame size 
+  - frame size
+- normalize
+- One-Hot Encode Labels
 
 # Processing Frames
 
+- create model (sequential)
+- add layers
 
 
 # Feed AI 
+
+- smash in the flattened results
+- compare train results to test results
