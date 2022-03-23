@@ -13,7 +13,7 @@
     - experiment how important colors are
   - Alignment -> already correct aligned
   - frame size
-- normalize
+  - normalizing
 - One-Hot Encode Labels
 
 # Processing Frames
@@ -26,3 +26,4 @@
 
 - smash in the flattened results
 - compare train results to test results
+- TensorBoard for analysing?
